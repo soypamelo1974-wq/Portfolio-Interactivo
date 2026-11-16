@@ -84,7 +84,7 @@ Integración de flujos automatizados entre diferentes herramientas digitales.
 
 Desarrollo de una aplicación web personal con contenido dinámico.
 
----
+
 
 ## 📝 Artículos y Opiniones
 
@@ -97,5 +97,8 @@ En este espacio comparto reflexiones sobre:
 - Marketing Digital
 
 ---
+📄 Licencia
+Este proyecto ha sido creado con fines educativos y profesionales.
 
+© Fabiana A. Dominguez
 ## 🎥 
