@@ -17,7 +17,7 @@ Soy **AI Content Creator**, **AI & Marketing Consultant** y **UX Designer**, act
 Me interesa especialmente la intersección entre:
 
 - 🎨 Diseño centrado en el usuario (UX)
-- 🤖 Inteligencia Artificial
+- 🤖 Aplicaciones web Python y Flask
 - 📈 Marketing Digital
 - ⚙️ Automatización de procesos
 - 💻 Desarrollo Web
