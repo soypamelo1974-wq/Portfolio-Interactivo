@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio interactivo  | Fabiana A. Dominguez</title>
+
+
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
+
+<body>
+    <main>
+        <div class="container">
+          <!-- Title -->
+            <div class="title">
+                <h2>Portfolio Interactivo</h2>
+                <div class="underline"></div>
+            </div>
+            <!--reviews -->
+            <article class="review">
+                <div class="img-container">
+                    <img id="person-img" src="./img/persong1.jpeg" alt="Foto de perfil de Fabiana Aid" class="foto-perfil">
+                </div>
+                <h4 id="author">Fabiana A. Dominguez</h4>
+                <p id="job">ux designer</p>
+                <p id="info">
+                    AI Content Creator | AI & Marketing Consultant | UX Designer
+                </p>
+            </article>
+
+               
+
+            <!-- Navigation Buttons -->
+            <nav class="btn-container">
+                <button class="btn" id="btn-sobre-mi">Sobre mí</button>
+                <button class="btn" id="btn-certificados">Certificados</button>
+                <button class="btn" id="btn-proyectos">Proyectos</button>
+                <button class="btn" id="btn-contacto">Contacto</button>
+                <button class="btn" id="btn-videos">Videos</button>
+                <button class="btn" id="btn-pdf">Descargar PDF</button>
+            </nav>
+
+
+
+            <!-- Profile Card -->
+            <div class="galeria">
+
+
+
+    <video id="video-principal" controls playsinline preload="metadata">
+        <source src="./videos/fabianaid%20Video%202026-11-16%20at%2013.53.25.mp4" type="video/mp4">
+        Tu navegador no puede reproducir este video.
+    </video>
+</div>
+
+
+
+                <ul class="habilidades">
+                    <li>✅ JavaScript</li>
+                    <li>✅ Git y GitHub</li>
+                    <li>✅ Automatización con n8n</li>
+                    <li>✅ IA aplicada al Marketing</li>
+                    <li>✅ Full Stack Development</li>
+                </ul>
+
+                <p class="cargo">
+                    <strong>UX Designer</strong> & <strong>Future Full Stack Developer</strong>
+                </p>
+
+
+
+                <p class="descripcion">
+                    Apasionada por la experiencia de usuario, el diseño de interfaces
+                    y el desarrollo de soluciones digitales centradas en las personas.
+                </p>
+            </div>
+
+
+
+            <!-- Contenedor dinámico para certificados o proyectos -->
+            <article id="contenido-dinamico"></article>
+
+
+
+        </div>
+    </main>
+
+
+
+    <!-- JavaScript -->
+    <script src="app.js"></script>
+</body>
+</html>
+
+
+
+
+
+
